@@ -1,6 +1,6 @@
 ###### Oi/Hi!
 
-→ Eu sou Thalis Sartorio. Sou técnico em Informática para Internet, formado em  História - Licenciatura e atualmente faço mestrado em História.
+→ Eu sou Thalis Sartorio. Sou técnico em Informática para Internet, formado em  História - Licenciatura e atualmente faço mestrado em História. Também sou graduando em Ciência da Computação. Trabalho como Técnico em Tecnologia da Informação (UFPEL).
 
 → Meu foco tem sido a criação de tecnlogias (websites) para o ensino de História e estudar ODA's, em colaboração ao Portal Clio HD (UFPEL).
 
